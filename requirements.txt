@@ -11,8 +11,8 @@ python-dotenv
 beautifulsoup4
 lxml
 pillow
-langchain
-langchain-core
+langchain>=0.0.200
+langchain-core>=0.2.20
 langchain-google-genai
 google-generativeai
 openpyxl
